@@ -1,5 +1,6 @@
 # SnakeGame
-This is a simple snake game developed by me using JAVA.
-To experiance the game simply download the code
-And run the main file using a jdk complier(I use eclipse) and enjoy the classic Snake Game 😊
-Thank you
+
+
+
+https://user-images.githubusercontent.com/72161993/181819945-fbd53177-09af-4f76-b6aa-03dac0911367.mp4
+
